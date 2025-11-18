@@ -14,9 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Currency Converter](https://github.com/sandra-0492/currency-converter-react/blob/main/currency-converter-gif.gif?raw=true)
+[Link to the Demo website](https://sandra-0492.github.io/currency-converter-react/)
 
-[Link to the Demo website](https://sandra-0492.github.io/currency-converter/)
+![Currency Converter](https://github.com/sandra-0492/currency-converter-react/blob/main/currency-converter-gif.gif?raw=true)
 
 ## Technologies
 
