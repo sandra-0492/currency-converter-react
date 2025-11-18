@@ -1,0 +1,8 @@
+.app {
+  flex-basis: 700px;
+  margin: 20px;
+  padding: 40px;
+  box-shadow: 2px 2px 50px #eed187;
+  border-radius: 10px;
+  background-color: #e9e4e4;
+}
