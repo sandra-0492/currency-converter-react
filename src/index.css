@@ -8,9 +8,9 @@ html {
   box-sizing: inherit;
 }
 
-root {
+#root {
   font-family: "Athiti", sans-serif;
-  background-image: url("../src/background.png");
+  background-image: url("background.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
