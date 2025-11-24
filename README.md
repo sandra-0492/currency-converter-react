@@ -1,6 +1,6 @@
 # Currency converter
 
-A simple **currency converter** that allows you to convert Polish currency to Euro, US dollar and Canadian dollar.
+A simple and user-friendly **currency converter** that allows you to convert currencies in real time.
 
 ![Currency Converter](https://github.com/sandra-0492/currency-converter-react/blob/main/Screenshot.png?raw=true)
 
@@ -8,8 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features  
 
-- Enter the amount in PLN **PLN**  
-- Select the target currency: **EUR**, **USD**, **CAD**  
+- Input the amount you want to convert
+- Convert between different currencies using    up-to-date exchange rates
+- Select source (“from”) and target (“to”) currencies from dropdowns
 - Instant view the converted amount  
 
 ## Demo
@@ -24,6 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - CSS
 - JavaScript
 - React
+- API
 
 ## Available Scripts
 
