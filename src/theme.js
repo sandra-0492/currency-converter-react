@@ -7,5 +7,6 @@ export const theme = {
     white: "#fff",
     ebb: "#e9e4e4",
     forestGreen: "#386b22",
+    crimson: "#e31635"
   },
 };
